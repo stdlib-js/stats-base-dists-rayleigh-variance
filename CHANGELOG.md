@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-17)
+
+<section class="features">
+
+### Features
+
+-   [`c242bc2`](https://github.com/stdlib-js/stdlib/commit/c242bc2a4e128472277ea8545c6811ea2cbbd736) - add C implementation for `stats/base/dists/rayleigh/variance` [(#3990)](https://github.com/stdlib-js/stdlib/pull/3990)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3811](https://github.com/stdlib-js/stdlib/issues/3811)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c242bc2`](https://github.com/stdlib-js/stdlib/commit/c242bc2a4e128472277ea8545c6811ea2cbbd736) - **feat:** add C implementation for `stats/base/dists/rayleigh/variance` [(#3990)](https://github.com/stdlib-js/stdlib/pull/3990) _(by Aayush Khanna)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aayush Khanna
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
