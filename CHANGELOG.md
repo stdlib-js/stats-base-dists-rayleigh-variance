@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-17)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`c242bc2`](https://github.com/stdlib-js/stdlib/commit/c242bc2a4e128472277ea8545c6811ea2cbbd736) - **feat:** add C implementation for `stats/base/dists/rayleigh/variance` [(#3990)](https://github.com/stdlib-js/stdlib/pull/3990) _(by Aayush Khanna)_
 
 </details>
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Philipp Burckhardt
 
 </section>
 
