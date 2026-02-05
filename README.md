@@ -69,7 +69,7 @@ where `σ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-variance@v0.3.1-deno/mod.js';
 ```
 
 #### variance( sigma )
@@ -114,7 +114,7 @@ var y = variance( -1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-variance@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
