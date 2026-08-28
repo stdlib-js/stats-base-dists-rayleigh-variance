@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-26)
+## Unreleased (2026-08-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5ef67e5`](https://github.com/stdlib-js/stdlib/commit/5ef67e56a24b5a56dc0d218924f95b10b5a0afc6) - **test:** migrate `stats/base/dists/rayleigh/variance` to ULP-based assertions [(#14754)](https://github.com/stdlib-js/stdlib/pull/14754) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4589958`](https://github.com/stdlib-js/stdlib/commit/45899588d2b46feadb809778e13c156bc9cae2aa) - **refactor:** use floating-point zero literals in `stats/base/dists/rayleigh` [(#12204)](https://github.com/stdlib-js/stdlib/pull/12204) _(by Philipp Burckhardt)_
 -   [`b517ce1`](https://github.com/stdlib-js/stdlib/commit/b517ce16f647ffe2270573dff57755fe7ba69027) - **docs:** propagate description and example fixes in `stats/base/dists/*` [(#12132)](https://github.com/stdlib-js/stdlib/pull/12132) _(by Philipp Burckhardt)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
